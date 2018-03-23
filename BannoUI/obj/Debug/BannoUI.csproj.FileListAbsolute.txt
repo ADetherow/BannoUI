@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\BannoUI\BannoUI\bin\Debug\BannoUI.exe.config
+C:\Users\Alex\source\repos\BannoUI\BannoUI\bin\Debug\BannoUI.exe
+C:\Users\Alex\source\repos\BannoUI\BannoUI\bin\Debug\BannoUI.pdb
+C:\Users\Alex\source\repos\BannoUI\BannoUI\obj\Debug\BannoUI.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\BannoUI\BannoUI\obj\Debug\BannoUI.Form1.resources
+C:\Users\Alex\source\repos\BannoUI\BannoUI\obj\Debug\BannoUI.Properties.Resources.resources
+C:\Users\Alex\source\repos\BannoUI\BannoUI\obj\Debug\BannoUI.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\BannoUI\BannoUI\obj\Debug\BannoUI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\BannoUI\BannoUI\obj\Debug\BannoUI.exe
+C:\Users\Alex\source\repos\BannoUI\BannoUI\obj\Debug\BannoUI.pdb
